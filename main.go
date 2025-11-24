@@ -2,10 +2,9 @@ package main
 
 import (
 	"log"
-	
+
 	"github.com/hajimehoshi/ebiten/v2"
 )
-
 
 func main() {
 	ebiten.SetWindowSize(960, 720)
